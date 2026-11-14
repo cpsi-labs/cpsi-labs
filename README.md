@@ -1,11 +1,14 @@
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cpsi-labs/cpsi-labs/main/assets/logo-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cpsi-labs/cpsi-labs/main/assets/logo-light.png">
-  <img alt="CPSI LABS" src="https://raw.githubusercontent.com/cpsi-labs/cpsi-labs/main/assets/logo-light.png" width="650">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="assets/logo-dark-compact.png">
+    <source media="(prefers-color-scheme: light)"
+      srcset="assets/logo-light-compact.png">
+    <img src="assets/logo-light-compact.png"
+      width="550" alt="CPSI LABS">
+  </picture>
+</p>
 
 ### BUILD. INNOVATE. EVOLVE.
 
